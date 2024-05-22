@@ -45,8 +45,9 @@ To run this project, follow these steps:
 
 ## Flow of the App
 
-![Flow Chart](https://github.com/DanielSarf/Ash-Personal-AI-Assistant/assets/72676273/65ca67ad-a2c0-46ee-890c-fa0c67aa7c6d)
+<img width="1814" alt="Flow Chart" src="https://github.com/DanielSarf/Ash-Personal-AI-Assistant/assets/72676273/ad670d79-21b7-42d5-a3f2-b377db028880">
+
 
 ## Demo Video
 
-[Watch the demo video](https://github.com/DanielSarf/Ash-Personal-AI-Assistant/assets/72676273/7ed31cae-225f-4870-8cb5-fa9cca208b31)
+[Watch the demo video](https://github.com/DanielSarf/Ash-Personal-AI-Assistant/assets/72676273/217b200c-d7dd-4994-99a2-297dae01fe81)
