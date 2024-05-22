@@ -1,0 +1,29 @@
+name: ash_personal_assistant
+description: 'MVP for an AI Personal Assistant "Ash" developed by Daniel Sarfraz.'
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.2.1
+  flutter_svg: ^2.0.5
+  firebase_core: ^2.31.0
+  firebase_auth: ^4.19.5
+  flutter_chat_bubble: ^2.0.2
+  cloud_firestore: ^4.17.3
+  onnxruntime: ^1.4.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/logos/
